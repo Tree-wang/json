@@ -1,0 +1,11 @@
+{
+   "age" : "22",
+   "bro" : {
+      "friend_age" : "25",
+      "friend_name" : "Wangwenjian",
+      "friend_sex" : "man"
+   },
+   "hobby" : [ "sing", "run", "basketball" ],
+   "name" : "Wangqinghe",
+   "sex" : "man"
+}
